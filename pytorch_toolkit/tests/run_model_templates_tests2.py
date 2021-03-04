@@ -30,12 +30,12 @@ from texttable import Texttable
 
 
 KNOWN_DOMAIN_FOLDERS = [
-        'object_detection',
+        #'object_detection',
         'action_recognition_2',
-        'instance_segmentation',
-        'text_spotting',
-        'image_classification',
-        'ote',
+        #'instance_segmentation',
+        #'text_spotting',
+        #'image_classification',
+        #'ote',
         ]
 DOMAINS_WITHOUT_VENV = ['ote']
 TEST_FILES_PATTERN = '*_tests_*.py'
